@@ -1,0 +1,11 @@
+H:\Entity Framework in the Enterprise\MvcSalesApp\MvcSalesApp.Domain\bin\Debug\MvcSalesApp.Domain.dll
+H:\Entity Framework in the Enterprise\MvcSalesApp\MvcSalesApp.Domain\bin\Debug\MvcSalesApp.Domain.pdb
+H:\Entity Framework in the Enterprise\MvcSalesApp\MvcSalesApp.Domain\obj\Debug\MvcSalesApp.Domain.csproj.CoreCompileInputs.cache
+H:\Entity Framework in the Enterprise\MvcSalesApp\MvcSalesApp.Domain\obj\Debug\MvcSalesApp.Domain.dll
+H:\Entity Framework in the Enterprise\MvcSalesApp\MvcSalesApp.Domain\obj\Debug\MvcSalesApp.Domain.pdb
+H:\Entity Framework in the Enterprise\MvcSalesApp\MvcSalesApp.Domain\bin\Debug\MvcSalesApp.Domain.dll.config
+H:\Entity Framework in the Enterprise\MvcSalesApp\MvcSalesApp.Domain\bin\Debug\EntityFramework.dll
+H:\Entity Framework in the Enterprise\MvcSalesApp\MvcSalesApp.Domain\bin\Debug\EntityFramework.SqlServer.dll
+H:\Entity Framework in the Enterprise\MvcSalesApp\MvcSalesApp.Domain\bin\Debug\EntityFramework.xml
+H:\Entity Framework in the Enterprise\MvcSalesApp\MvcSalesApp.Domain\bin\Debug\EntityFramework.SqlServer.xml
+H:\Entity Framework in the Enterprise\MvcSalesApp\MvcSalesApp.Domain\obj\Debug\MvcSalesApp.Domain.csprojResolveAssemblyReference.cache
